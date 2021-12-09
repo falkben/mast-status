@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /mast-status
-  logoUrl: https://archive.stsci.edu/images/mastlogo_new.gif
+  logoUrl: https://falkben.github.io/mast-status/mast-logo.jpg
   name: MAST Status Page
   introTitle: "(DEMO) Status page for MAST services"
   introMessage: Real time data powered by github actions
