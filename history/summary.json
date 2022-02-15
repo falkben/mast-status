@@ -50,9 +50,9 @@
     "slug": "portal",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 48,
     "timeDay": 22,
@@ -60,7 +60,7 @@
     "timeMonth": 51,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-02-15": 0
+      "2022-02-15": 4
     }
   },
   {
