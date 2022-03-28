@@ -30,19 +30,19 @@
     "url": "https://mast.stsci.edu/tesscut",
     "icon": "https://favicons.githubusercontent.com/mast.stsci.edu",
     "slug": "tesscut",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 313,
-    "timeDay": 340,
-    "timeWeek": 273,
-    "timeMonth": 280,
-    "timeYear": 313,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 312,
+    "timeDay": 302,
+    "timeWeek": 265,
+    "timeMonth": 277,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2022-03-28": 9
+      "2022-03-28": 0
     }
   },
   {
