@@ -4,11 +4,11 @@
     "url": "https://archive.stsci.edu",
     "icon": "https://icons.duckduckgo.com/ip3/archive.stsci.edu.ico",
     "slug": "archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.75%",
     "time": 884,
     "timeDay": 3565,
@@ -16,6 +16,7 @@
     "timeMonth": 711,
     "timeYear": 884,
     "dailyMinutesDown": {
+      "2022-10-28": 1,
       "2022-09-29": 23,
       "2022-07-13": 19,
       "2022-06-24": 41,
@@ -38,10 +39,10 @@
     "url": "https://mast.stsci.edu/tesscut",
     "icon": "https://icons.duckduckgo.com/ip3/mast.stsci.edu.ico",
     "slug": "tesscut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
@@ -49,17 +50,19 @@
     "timeWeek": 339,
     "timeMonth": 355,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 1
+    }
   },
   {
     "name": "Portal",
     "url": "https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html",
     "icon": "https://icons.duckduckgo.com/ip3/mast.stsci.edu.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 89,
@@ -68,6 +71,7 @@
     "timeMonth": 70,
     "timeYear": 89,
     "dailyMinutesDown": {
+      "2022-10-28": 1,
       "2022-10-19": 42,
       "2022-06-03": 29,
       "2022-04-26": 30,
@@ -80,9 +84,9 @@
     "url": "https://mast.stsci.edu/search/hst/ui/#/",
     "icon": "https://icons.duckduckgo.com/ip3/mast.stsci.edu.ico",
     "slug": "hst-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +95,8 @@
     "timeWeek": 44,
     "timeMonth": 45,
     "timeYear": 42,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 0
+    }
   }
 ]
