@@ -1,7 +1,7 @@
 url: https://archive.stsci.edu
-status: up
-code: 200
-responseTime: 443
-lastUpdated: 2023-06-22T23:05:07.243Z
+status: down
+code: 400
+responseTime: 790
+lastUpdated: 2023-06-23T14:26:31.971Z
 startTime: Tue Dec 07 2021 17:10:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
