@@ -1,7 +1,7 @@
 url: https://mast.stsci.edu/tesscut
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-12T03:36:21.278Z
+status: up
+code: 200
+responseTime: 636
+lastUpdated: 2024-07-12T03:44:42.324Z
 startTime: 2021-12-07T17:10:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
