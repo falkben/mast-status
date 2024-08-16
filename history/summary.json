@@ -4,7 +4,7 @@
     "url": "https://archive.stsci.edu",
     "icon": "https://icons.duckduckgo.com/ip3/archive.stsci.edu.ico",
     "slug": "archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2234,
     "timeYear": 965,
     "dailyMinutesDown": {
+      "2024-08-16": 0,
       "2024-07-28": 21,
       "2024-07-22": 732,
       "2024-05-13": 75,
