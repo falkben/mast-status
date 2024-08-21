@@ -1,7 +1,7 @@
 url: https://mast.stsci.edu/search/hst/ui/#/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-21T21:31:01.481Z
+status: up
+code: 200
+responseTime: 6858
+lastUpdated: 2024-08-21T21:39:30.444Z
 startTime: 2021-12-07T17:10:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
